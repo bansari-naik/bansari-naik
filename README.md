@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 🌟 About Me
+
 Welcome to my GitHub! 🚀
 I’m a BTech Student in Artificial Intelligence and Data Science and passionate about leveraging technology to solve real-world problems and create innovative solutions. With a blend of technical expertise and creative thinking, I thrive on building impactful projects that make a difference.
 
@@ -8,6 +9,7 @@ I enjoy exploring cutting-edge technologies like Artificial Intelligence, Data S
 
 
 🛠️ Skills
+
 Programming Languages: Python, HTML,CSS,C,C++,Java
 Tools and Software: Canva,Ms Office Suite(Word,Powerpoint,Excel
 
@@ -16,5 +18,6 @@ Machine learning and Data Science
 
 
 ✨ Let's Connect!
+
 💼 LinkedIn:Bansari Naik
 ✉️ Email:naikbansari.1412@gmail.com
