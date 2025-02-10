@@ -9,13 +9,19 @@ I enjoy exploring cutting-edge technologies like Artificial Intelligence, Data S
 
 ## 🛠️ Skills:
 
-Programming Languages: Python, HTML,CSS,C,C++,Java
+Programming Languages: Python,C,C++,HTML,CSS,Java
 
 Tools and Software: Canva,Ms Office Suite(Word,Powerpoint,Excel)
 
 ## 💡I am currently learning :
 
-Machine learning and Data Science
+🌟 Generative AI: Exploring the creation of AI-generated content using GANs (Generative Adversarial Networks) and diffusion models.
+
+🧠 Natural Language Processing (NLP): Working on text classification, sentiment analysis, and developing language models using transformers like BERT and GPT.
+
+📊 Advanced Machine Learning Models: Exploring ensemble methods, boosting algorithms, and deep neural networks to solve complex problems.
+
+🌳 Data Structures: Mastering fundamental and advanced data structures, including arrays, linked lists, trees, graphs, heaps, and hash maps.Practicing coding challenges on platforms like LeetCode, HackerRank, and Codeforces to improve efficiency and logic
 
 
 ## ✨Let's Connect!
@@ -24,4 +30,4 @@ Machine learning and Data Science
 
 ✉️Email: naikbansari.1412@gmail.com
 
-💼Github: [bansari-naik]()
+💼Github: [bansari-naik](https://github.com/bansari-naik)
