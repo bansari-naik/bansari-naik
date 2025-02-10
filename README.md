@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**bansari-naik/bansari-naik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me
+Welcome to my GitHub! 🚀
+I’m a BTech Student in Artificial Intelligence and Data Science and passionate about leveraging technology to solve real-world problems and create innovative solutions. With a blend of technical expertise and creative thinking, I thrive on building impactful projects that make a difference.
 
-Here are some ideas to get you started:
+I enjoy exploring cutting-edge technologies like Artificial Intelligence, Data Science, and Web Development. I also love contributing to open-source projects and collaborating with like-minded individuals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Skills
+Programming Languages: Python, HTML,CSS,C,C++,Java
+Tools and Software: Canva,Ms Office Suite(Word,Powerpoint,Excel
+
+💡 I am currently learning :
+Machine learning and Data Science
+
+
+✨ Let's Connect!
+💼 LinkedIn:Bansari Naik
+✉️ Email:naikbansari.1412@gmail.com
