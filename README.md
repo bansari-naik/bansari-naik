@@ -20,9 +20,8 @@ Machine learning and Data Science
 
 ## ✨Let's Connect!
 
-💼LinkedIn:(https://www.linkedin.com/in/BansariNaik/)
-
+💼LinkedIn: [Bansari Naik](https://www.linkedin.com/in/bansari-naik-426b7529b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ✉️Email: naikbansari.1412@gmail.com
 
-💼Github: bansari-naik
+💼Github: [bansari-naik]()
