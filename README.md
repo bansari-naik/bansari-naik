@@ -19,8 +19,6 @@ Tools and Software: Canva,Ms Office Suite(Word,Powerpoint,Excel)
 
 🧠 Natural Language Processing (NLP): Working on text classification, sentiment analysis, and developing language models using transformers like BERT and GPT.
 
-📊 Advanced Machine Learning Models: Exploring ensemble methods, boosting algorithms, and deep neural networks to solve complex problems.
-
 🌳 Data Structures: Mastering fundamental and advanced data structures, including arrays, linked lists, trees, graphs, heaps, and hash maps.Practicing coding challenges on platforms like LeetCode, HackerRank, and Codeforces to improve efficiency and logic.
 
 📊 Data Science and Analytics: Gaining expertise in Exploratory Data Analysis (EDA) by working with real-world datasets, handling missing values, and transforming data for better insights. Exploring data visualization techniques like histograms, box plots, and heatmaps to identify trends. Developing a deeper understanding of statistical analysis and its role in data-driven decision-making. 
