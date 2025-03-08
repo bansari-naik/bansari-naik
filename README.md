@@ -21,7 +21,7 @@ Tools and Software: Canva,Ms Office Suite(Word,Powerpoint,Excel)
 
 🌳 Data Structures: Mastering fundamental and advanced data structures, including arrays, linked lists, trees, graphs, heaps, and hash maps.Practicing coding challenges on platforms like LeetCode, HackerRank, and Codeforces to improve efficiency and logic.
 
-🌐 Web Development – Building responsive and user-friendly web applications using HTML, CSS, and JavaScript. Exploring modern frameworks like React and backend technologies like Django to create full-stack solutions.
+🌐 Web Development: Building responsive and user-friendly web applications using HTML, CSS, and JavaScript. Exploring modern frameworks like React and backend technologies like Django to create full-stack solutions.
 
 📊 Data Science and Analytics: Gaining expertise in Exploratory Data Analysis (EDA) by working with real-world datasets, handling missing values, and transforming data for better insights. Exploring data visualization techniques like histograms, box plots, and heatmaps to identify trends. Developing a deeper understanding of statistical analysis and its role in data-driven decision-making. 
 
