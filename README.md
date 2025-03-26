@@ -15,10 +15,6 @@ Tools and Software: Canva,Ms Office Suite(Word,Powerpoint,Excel)
 
 ## 💡I am currently learning :
 
-🌟 Generative AI: Exploring the creation of AI-generated content using GANs (Generative Adversarial Networks) and diffusion models.
-
-🧠 Natural Language Processing (NLP): Working on text classification, sentiment analysis, and developing language models using transformers like BERT and GPT.
-
 🌳 Data Structures: Mastering fundamental and advanced data structures, including arrays, linked lists, trees, graphs, heaps, and hash maps.Practicing coding challenges on platforms like LeetCode, HackerRank, and Codeforces to improve efficiency and logic.
 
 🌐 Web Development: Building responsive and user-friendly web applications using HTML, CSS, and JavaScript. Exploring modern frameworks like React and backend technologies like Django to create full-stack solutions.
