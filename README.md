@@ -25,6 +25,6 @@ Tools and Software: Canva,Ms Office Suite(Word,Powerpoint,Excel)
 
 💼LinkedIn: [Bansari Naik](https://www.linkedin.com/in/bansari-naik-426b7529b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-✉️Email: naikbansari.1412@gmail.com
+✉️Email: bansarimehulnaik07@gmail.com
 
 💼Github: [bansari-naik](https://github.com/bansari-naik)
