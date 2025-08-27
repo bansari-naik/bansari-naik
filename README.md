@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Languages & Tools (Icon Grid)
+## 🛠️ Languages & Tools
 
 <!-- Icon strip (devicon + brand svgs). Adjust size uniformly with height=48 -->
 <p align="left">
@@ -74,7 +74,7 @@
 
 <p align="center">
   <!-- LeetCode -->
-  <a href="https://leetcode.com/your-leetcode-username/">
+  <a href="https://leetcode.com/u/bansari_naik/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="48" alt="LeetCode"/>
   </a>
 
