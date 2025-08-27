@@ -1,57 +1,90 @@
-<h1 align="center"> 
-  Heyy, I'm <a href="https://github.com/bansari-naik" target="_blank">Bansari Naik</a>! 👋
+<!-- Header -->
+<h1 align="center">
+  Heyy, I'm <a href="https://github.com/bansari-naik" target="_blank">Bansari Naik</a>! 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32"/>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74780&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;Passionate+about+Web+Dev+%26+AI;Loves+Building+Impactful+Projects;Always+Learning+%26+Exploring+🚀" alt="Typing SVG" />
+  <!-- Animated typing intro -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&center=true&vCenter=true&width=700&lines=B.Tech+in+AI+%26+Data+Science;Web+Dev+%7C+EDA+%7C+Open+Source;Building+projects+that+make+an+impact+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌟 About Me  
-
-🎓 I’m a **B.Tech Student in Artificial Intelligence & Data Science**  
-💡 Passionate about **solving real-world problems** through technology  
-🤝 Open to **collaborations, open-source contributions, and internships**  
-⚡ Love exploring **AI, Data Science, and Web Development**  
-
----
-
-## 🛠️ Skills  
-
-### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🛠️ Tools & Software  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![MS Word](https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/MS_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+## 🌟 About Me
+- 🎓 B.Tech Student in **Artificial Intelligence & Data Science**
+- 💡 Passionate about solving **real-world problems** with tech
+- 🤝 Open to **collaboration**, **open-source**, and **internships**
+- 🚀 Exploring **AI**, **Data Science**, and **Web Development**
 
 ---
 
-## 💡 Currently Learning  
+## 🛠️ Languages & Tools (Icon Grid)
 
-🌳 **Data Structures** (arrays, linked lists, trees, graphs, heaps, hash maps)  
-🌐 **Web Development** (React + Django full-stack)  
-📊 **Data Science** (EDA, visualization, statistics, ML basics)  
+<!-- Icon strip (devicon + brand svgs). Adjust size uniformly with height=48 -->
+<p align="left">
+  <!-- Core languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="48" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="48" alt="CSS3"/>
+
+  <!-- DS / Notebook / Viz -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib"/>
+
+  <!-- Web stack (learning) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="48" alt="Django"/>
+
+  <!-- DB (optional; remove if not using) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL"/>
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="Canva"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="48" alt="MS Office (icon alt)"/>
+</p>
+
+> Tip: keep icons you *actually* use. You can add more from **https://devicon.dev/**
 
 ---
 
+## 💡 Currently Learning
+- 🌳 **Data Structures**: arrays, linked lists, trees, heaps, graphs, hash maps (LeetCode/HackerRank/Codeforces)
+- 🌐 **Web Development**: responsive UI with **HTML/CSS/JS**, exploring **React** + **Django**
+- 📊 **Data Science**: EDA, data cleaning, visualizations (histogram/boxplot/heatmap), basic statistics
 
-## ✨ Let’s Connect!  
+---
 
 <p align="center">
-  <a href="mailto:bansarimehulnaik07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/bansari-naik-426b7529b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/bansari-naik"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Most used languages card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansari-naik&layout=compact&theme=radical" height="170" />
 </p>
 
 ---
 
-⭐ *"Code, Create, and Collaborate to make an Impact!"* ⭐
+## ✨ Connect with Me
+<p align="left">
+  <a href="mailto:bansarimehulnaik07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff" />
+  </a>
+  <a href="https://www.linkedin.com/in/bansari-naik-426b7529b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" />
+  </a>
+  <a href="https://github.com/bansari-naik">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=fff" />
+  </a>
+</p>
+
+---
+
+⭐ *“Code, Create, and Collaborate to make an Impact!”*  
