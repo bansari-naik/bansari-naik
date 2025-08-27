@@ -54,8 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="48" alt="MS Office (icon alt)"/>
 </p>
 
-> Tip: keep icons you *actually* use. You can add more from **https://devicon.dev/**
-
 ---
 
 ## 💡 Currently Learning
@@ -72,16 +70,27 @@
 
 ---
 
-## ✨ Connect with Me
-<p align="left">
-  <a href="mailto:bansarimehulnaik07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff" />
+## ✨ Connect with Me 
+
+<p align="center">
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/your-leetcode-username/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="48" alt="LeetCode"/>
   </a>
-  <a href="https://www.linkedin.com/in/bansari-naik-426b7529b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" />
-  </a>
+
+  <!-- GitHub -->
   <a href="https://github.com/bansari-naik">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=fff" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:bansarimehulnaik07@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="48" alt="Gmail"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/bansari-naik-426b7529b">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="48" alt="LinkedIn"/>
   </a>
 </p>
 
