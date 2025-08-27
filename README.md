@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Animated typing intro -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&center=true&vCenter=true&width=700&lines=B.Tech+in+AI+%26+Data+Science;Web+Dev+%7C+EDA+%7C+Open+Source;Building+projects+that+make+an+impact+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&center=true&vCenter=true&width=700&lines=B.Tech+in+AI+%26+Data+Science;Building+projects+that+make+an+impact+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
