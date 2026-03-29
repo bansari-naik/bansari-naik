@@ -73,10 +73,6 @@
 ## ✨ Connect with Me 
 
 <p align="center">
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/bansari_naik/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="48" alt="LeetCode"/>
-  </a>
 
   <!-- GitHub -->
   <a href="https://github.com/bansari-naik">
