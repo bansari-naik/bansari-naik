@@ -56,38 +56,9 @@
 
 ---
 
-## 💡 Currently Learning
-- 🌳 **Data Structures**: arrays, linked lists, trees, heaps, graphs, hash maps (LeetCode/HackerRank/Codeforces)
-- 🌐 **Web Development**: responsive UI with **HTML/CSS/JS**, exploring **React** + **Django**
-- 📊 **Data Science**: EDA, data cleaning, visualizations (histogram/boxplot/heatmap), basic statistics
-
----
-
 <p align="center">
   <!-- Most used languages card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansari-naik&layout=compact&theme=radical" height="170" />
-</p>
-
----
-
-## ✨ Connect with Me 
-
-<p align="center">
-
-  <!-- GitHub -->
-  <a href="https://github.com/bansari-naik">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub"/>
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:bansarimehulnaik07@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="48" alt="Gmail"/>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/bansari-naik-426b7529b">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="48" alt="LinkedIn"/>
-  </a>
 </p>
 
 ---
