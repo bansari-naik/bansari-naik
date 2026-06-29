@@ -4,11 +4,6 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32"/>
 </h1>
 
-<p align="center">
-  <!-- Animated typing intro -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&center=true&vCenter=true&width=700&lines=B.Tech+in+AI+%26+Data+Science;Building+projects+that+make+an+impact+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🌟 About Me
