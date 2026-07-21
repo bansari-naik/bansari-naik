@@ -51,11 +51,4 @@
 
 ---
 
-<p align="center">
-  <!-- Most used languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansari-naik&layout=compact&theme=radical" height="170" />
-</p>
-
----
-
 ⭐ *“Code, Create, and Collaborate to make an Impact!”*  
